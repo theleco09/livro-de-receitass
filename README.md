@@ -6,7 +6,8 @@ Projeto criado para praticar Git e GitHub.
 
 - [Bolo de Chocolate](#bolo-de-chocolate)
 - [Pudim](#pudim)
-
+- [Bolo de Cenoura](#bolo-de-cenoura)
+  
 ---
 
 ## Bolo de Chocolate
@@ -21,6 +22,11 @@ Receita tradicional de pudim.
 
 ---
 
+## Bolo de Cenoura
+
+Receita simples de bolo de cenoura.
+
+---
 ## Como contribuir
 
 1. Crie uma branch
